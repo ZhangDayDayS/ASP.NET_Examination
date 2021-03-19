@@ -37,7 +37,7 @@ Create Table book
 )
 Go
 Insert Into Grade Values('S1'),('S2'),('Y2')
-Insert Into Book Values('C#',1),('Net',2),('HTML',3)
+Insert Into Book Values('C#',1),('.Net',2),('HTML',3)
 Go
 Select * From Grade
 Select * From Book
